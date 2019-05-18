@@ -1,0 +1,8 @@
+## Setup
+```sh
+$ # node をインストール
+$ git clone https://github.com/TakuKitamura/fakeActivity.git
+$ cd fakeActivity
+$ npm i
+$ node app.js
+```
